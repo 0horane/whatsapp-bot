@@ -1,0 +1,6 @@
+cache/auth_info_baileys/*
+cache/tex/*
+build/
+node_modules/
+texput.log
+
